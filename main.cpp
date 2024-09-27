@@ -6,13 +6,17 @@ const int MEMORY_COEF = 2;
 typedef double StackElem_t;
 
 enum CodeError {
-    erererere = 1
+    SIZE_ERROR = 1,
+    VALUE_ERROR,
+    PTR_STACK_ERROR,
+    PTR_DATA_ERROR,
+    NO_ERROR
 };
 
 struct Stack_t {
     StackElem_t* data;
-    size_t size;
-    size_t capacity;
+    int size;
+    int capacity;
     CodeError error;
 };
 
@@ -39,6 +43,9 @@ void output(FILE* out, Stack_t* stk);
 
 // дебажный вывод
 void stack_dump(Stack_t* stk);
+
+// проверки на нулевой указатель
+CodeError stack_error(Stack_t* stk);
 
 int main() {
     Stack_t stk = {};
@@ -118,8 +125,8 @@ void stack_dtor(Stack_t* stk) {
     free(stk->data);
 
     stk->data     = nullptr;
-    stk->size     = 0;
-    stk->capacity = 0;
+    stk->size     = -1;
+    stk->capacity = -1;
 }
 
 void output(FILE* out, Stack_t* stk) {
@@ -138,4 +145,20 @@ void stack_dump(Stack_t* stk) {
     fprintf(stderr, "\tdata[%p]\n", stk->data);
 
     output(stderr, stk);
+}
+
+CodeError stack_error(Stack_t* stk) {
+    if (!stk) {
+        return PTR_STACK_ERROR;
+    }
+    if (!stk->data) {
+        return PTR_DATA_ERROR;
+    }
+    if (stk->size < 0 || stk->capacity < 0) {
+        return VALUE_ERROR;
+    }
+    if (stk->size > stk->capacity) {
+        return SIZE_ERROR;
+    }
+    return NO_ERROR;
 }

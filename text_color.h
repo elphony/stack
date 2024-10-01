@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 enum Color {
-    COLOR_BLACK = 30,
+    COLOR_BLACK = 30, // system code
     COLOR_RED,
     COLOR_GREEN,
     COLOR_YELLOW,

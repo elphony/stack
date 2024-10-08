@@ -21,14 +21,16 @@ void stack_ctor(Stack_t* stk, int capacity) {
     }
     else {
         stk->data = (StackElem_t*)calloc(size, 1);
+        stk->status = CONSTRUCTED;
     }
 
 #ifdef CANARY
-    stk->data = (StackElem_t*)((Canary_t*)stk->data + 1);
-
-    *left_canary_ptr(stk) = CANARY_VALUE;
-    *right_canary_ptr(stk) = CANARY_VALUE;
-
+    if (stk->data) {
+        stk->data = (StackElem_t*)((Canary_t*)stk->data + 1);
+        *left_canary_ptr(stk) = CANARY_VALUE;
+        *right_canary_ptr(stk) = CANARY_VALUE;
+    }
+    
     stk->canary_start = CANARY_VALUE;
     stk->canary_end   = CANARY_VALUE;
 #endif
@@ -46,21 +48,24 @@ void stack_realloc(Stack_t* stk) {
 
     STACK_VERIF(stk);
 
-    size_t new_capacity = MEMORY_COEF * stk->capacity;
+    stk->capacity = MEMORY_COEF * stk->capacity;
+
+    if (!stk->data) {
+        stk->capacity = 1;
+    }
 
 #ifdef CANARY
-    Canary_t* new_ptr = (Canary_t*)realloc((Canary_t*)stk->data - 1, new_capacity * sizeof(StackElem_t) + 2 * sizeof(Canary_t));
-    stk->data = (StackElem_t*)(new_ptr + 1);
-    *right_canary_ptr(stk) = CANARY_VALUE;
-
-    assert(stk->data != NULL);
+    if (stk->data) {
+        Canary_t* new_ptr = (Canary_t*)realloc((Canary_t*)stk->data - 1, stk->capacity * sizeof(StackElem_t) + 2 * sizeof(Canary_t));
+        stk->data = (StackElem_t*)(new_ptr + 1);
+        *right_canary_ptr(stk) = CANARY_VALUE;
+    }
+    else {
+        stack_ctor(stk, stk->capacity);
+    }
 #else
-    stk->data = (StackElem_t*)realloc(stk->data, new_capacity * sizeof(StackElem_t));
-
-    assert(stk->data != NULL);
+    stk->data = (StackElem_t*)realloc(stk->data, stk->capacity * sizeof(StackElem_t));
 #endif
-
-    stk->capacity *= MEMORY_COEF;
 
     STACK_VERIF(stk);
 }
@@ -144,20 +149,32 @@ void stack_dump(FILE* out, Stack_t* stk, const char* name, const char* file, int
         fprintf(out, "%s[%p]\n"
                "\tcalled from %s : %d (%s)\n\n", name, stk, file, line, func);
 
+    switch (stk->status) {
+        case CONSTRUCTED: 
+            fprintf(out, "STATUS: CONSTRUCTED\n\n");
+            break;
+        case DESTRUCTED: 
+            fprintf(out, "STATUS: CONSTRUCTED\n\n");
+            break;
+    }
+
 #ifdef CANARY
         fprintf(out, "STRUCT CANARY_START = %04x\n", stk->canary_start);
 #endif
 
-        fprintf(out, "\tcapacity = %d\n"
-                     "\tsize =     %d\n", stk->capacity, stk->size);
+        fprintf(out, "\tcapacity       = %d\n"
+                     "\tsize           = %d\n", stk->capacity, stk->size);
 
 #ifdef HASH
-        fprintf(out, "\nHASH HASH HASH = %llu\n", stk->hash);
+        fprintf(out, "\n\tHASH HASH HASH = %llu\n", stk->hash);
 #endif
 
 #ifdef CANARY
-        fprintf(out, "STRUCT CANARY_END = %04x\n\n", stk->canary_end);
-        fprintf(out, "\nDATA CANARY LEFT  = %04x\n", *left_canary_ptr(stk));
+        fprintf(out, "STRUCT CANARY_END   = %04x\n\n", stk->canary_end);
+        
+        if (stk->data) {
+            fprintf(out, "\nDATA CANARY LEFT  = %04x\n", *left_canary_ptr(stk));
+        }
 #endif
 
         if (stk->data) {
@@ -169,7 +186,9 @@ void stack_dump(FILE* out, Stack_t* stk, const char* name, const char* file, int
         }
 
 #ifdef CANARY
-    fprintf(out, "DATA CANARY RIGHT  = %04x\n", *right_canary_ptr(stk));
+    if (stk->data) {
+        fprintf(out, "DATA CANARY RIGHT = %04x\n", *right_canary_ptr(stk));
+    }
 #endif
 
         fprintf(out, "\n");

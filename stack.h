@@ -45,6 +45,11 @@ enum CodeError {
 
 };
 
+enum stat {
+    DESTRUCTED  = 0,
+    CONSTRUCTED = 1
+};
+
 struct Stack_t {
 
 #ifdef CANARY
@@ -54,6 +59,7 @@ struct Stack_t {
     StackElem_t* data;
     int size;
     int capacity;
+    stat status;
 
 #ifdef HASH
     uint32_t hash;

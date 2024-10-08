@@ -5,7 +5,7 @@
 
 int main() {
     Stack_t stk = {};
-    stack_ctor(&stk, 1);
+    stack_ctor(&stk, 0);
 
     for (int i = 0; i < 50; ++i) {
         stack_push(&stk, i);

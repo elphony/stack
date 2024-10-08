@@ -3,7 +3,8 @@
 
 #include <cstdint>
 
-#define STACK_DUMP(out, stk) stack_dump(out, stk, #stk, __FILE__, __LINE__, __FUNCTION__) 
+#define STACK_DUMP(stk) stack_dump(LOG_FILE, stk, #stk, __FILE__, __LINE__, __FUNCTION__) 
+#define STACK_DUMP_ERROR(stk) stack_dump(stderr, stk, #stk, __FILE__, __LINE__, __FUNCTION__) 
 
 #define CANARY
 #define HASH
@@ -18,7 +19,7 @@ const Canary_t CANARY_VALUE = 0xAAAAAAAA;
 
 #define STACK_VERIF(stk) {        \
         stack_error(stk);         \
-        STACK_DUMP(stdout, stk);  \
+        STACK_DUMP(stk);          \
 }
 
 enum CodeError {
@@ -101,5 +102,8 @@ Canary_t* right_canary_ptr(Stack_t* stk);
 
 // возвращает указатель на левую канарейку
 Canary_t* left_canary_ptr(Stack_t* stk);
+
+void open_log_file(const char* FILE_NAME, const char* mode);
+void close_log_file();
 
 #endif // STACK_H

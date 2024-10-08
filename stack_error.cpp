@@ -98,7 +98,7 @@ int stack_error(Stack_t* stk) {
 
     if (errors > 0) {
         output_error(errors);
-        STACK_DUMP(stderr, stk);
+        STACK_DUMP_ERROR(stk);
         abort();
     }
 

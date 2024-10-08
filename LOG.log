@@ -1,0 +1,11767 @@
+stk[0x7f1690500030]
+	called from stack.cpp : 63 (stack_ctor)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 0
+	size           = 0
+
+	HASH HASH HASH = 2166136261
+STRUCT CANARY_END   = aaaaaaaa
+
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 0
+	size           = 0
+
+	HASH HASH HASH = 2166136261
+STRUCT CANARY_END   = aaaaaaaa
+
+
+stk[0x7f1690500030]
+	called from stack.cpp : 70 (stack_realloc)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 0
+	size           = 0
+
+	HASH HASH HASH = 2166136261
+STRUCT CANARY_END   = aaaaaaaa
+
+
+stk[0x7f1690500030]
+	called from stack.cpp : 63 (stack_ctor)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 1
+	size           = 0
+
+	HASH HASH HASH = 2166136261
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	 [0] = 0
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 91 (stack_realloc)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 1
+	size           = 0
+
+	HASH HASH HASH = 2166136261
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	 [0] = 0
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 1
+	size           = 1
+
+	HASH HASH HASH = 2615243109
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 1
+	size           = 1
+
+	HASH HASH HASH = 2615243109
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 70 (stack_realloc)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 1
+	size           = 1
+
+	HASH HASH HASH = 2615243109
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 91 (stack_realloc)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 2
+	size           = 1
+
+	HASH HASH HASH = 2615243109
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	 [1] = 1.41466e-314
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 2
+	size           = 2
+
+	HASH HASH HASH = 3819922712
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 2
+	size           = 2
+
+	HASH HASH HASH = 3819922712
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 70 (stack_realloc)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 2
+	size           = 2
+
+	HASH HASH HASH = 3819922712
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 91 (stack_realloc)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 4
+	size           = 2
+
+	HASH HASH HASH = 3819922712
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	 [2] = 1.41466e-314
+	 [3] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 4
+	size           = 3
+
+	HASH HASH HASH = 3057145048
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	 [3] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 4
+	size           = 3
+
+	HASH HASH HASH = 3057145048
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	 [3] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 4
+	size           = 4
+
+	HASH HASH HASH = 310618448
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 4
+	size           = 4
+
+	HASH HASH HASH = 310618448
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 70 (stack_realloc)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 4
+	size           = 4
+
+	HASH HASH HASH = 310618448
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 91 (stack_realloc)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 8
+	size           = 4
+
+	HASH HASH HASH = 310618448
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	 [4] = 1.41466e-314
+	 [5] = -1.83255e-06
+	 [6] = -1.83255e-06
+	 [7] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 8
+	size           = 5
+
+	HASH HASH HASH = 3589634048
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	 [5] = -1.83255e-06
+	 [6] = -1.83255e-06
+	 [7] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 8
+	size           = 5
+
+	HASH HASH HASH = 3589634048
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	 [5] = -1.83255e-06
+	 [6] = -1.83255e-06
+	 [7] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 8
+	size           = 6
+
+	HASH HASH HASH = 3697124212
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	 [6] = -1.83255e-06
+	 [7] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 8
+	size           = 6
+
+	HASH HASH HASH = 3697124212
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	 [6] = -1.83255e-06
+	 [7] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 8
+	size           = 7
+
+	HASH HASH HASH = 1251651436
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	 [7] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 8
+	size           = 7
+
+	HASH HASH HASH = 1251651436
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	 [7] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 8
+	size           = 8
+
+	HASH HASH HASH = 2432696144
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 8
+	size           = 8
+
+	HASH HASH HASH = 2432696144
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 70 (stack_realloc)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 8
+	size           = 8
+
+	HASH HASH HASH = 2432696144
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 91 (stack_realloc)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 8
+
+	HASH HASH HASH = 2432696144
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	 [8] = 1.41466e-314
+	 [9] = -1.83255e-06
+	 [10] = -1.83255e-06
+	 [11] = -1.83255e-06
+	 [12] = -1.83255e-06
+	 [13] = -1.83255e-06
+	 [14] = -1.83255e-06
+	 [15] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 9
+
+	HASH HASH HASH = 4267540912
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	 [9] = -1.83255e-06
+	 [10] = -1.83255e-06
+	 [11] = -1.83255e-06
+	 [12] = -1.83255e-06
+	 [13] = -1.83255e-06
+	 [14] = -1.83255e-06
+	 [15] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 9
+
+	HASH HASH HASH = 4267540912
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	 [9] = -1.83255e-06
+	 [10] = -1.83255e-06
+	 [11] = -1.83255e-06
+	 [12] = -1.83255e-06
+	 [13] = -1.83255e-06
+	 [14] = -1.83255e-06
+	 [15] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 10
+
+	HASH HASH HASH = 3700640418
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	 [10] = -1.83255e-06
+	 [11] = -1.83255e-06
+	 [12] = -1.83255e-06
+	 [13] = -1.83255e-06
+	 [14] = -1.83255e-06
+	 [15] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 10
+
+	HASH HASH HASH = 3700640418
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	 [10] = -1.83255e-06
+	 [11] = -1.83255e-06
+	 [12] = -1.83255e-06
+	 [13] = -1.83255e-06
+	 [14] = -1.83255e-06
+	 [15] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 11
+
+	HASH HASH HASH = 3513407590
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	 [11] = -1.83255e-06
+	 [12] = -1.83255e-06
+	 [13] = -1.83255e-06
+	 [14] = -1.83255e-06
+	 [15] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 11
+
+	HASH HASH HASH = 3513407590
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	 [11] = -1.83255e-06
+	 [12] = -1.83255e-06
+	 [13] = -1.83255e-06
+	 [14] = -1.83255e-06
+	 [15] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 12
+
+	HASH HASH HASH = 2647357520
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	 [12] = -1.83255e-06
+	 [13] = -1.83255e-06
+	 [14] = -1.83255e-06
+	 [15] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 12
+
+	HASH HASH HASH = 2647357520
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	 [12] = -1.83255e-06
+	 [13] = -1.83255e-06
+	 [14] = -1.83255e-06
+	 [15] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 13
+
+	HASH HASH HASH = 798158328
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	 [13] = -1.83255e-06
+	 [14] = -1.83255e-06
+	 [15] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 13
+
+	HASH HASH HASH = 798158328
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	 [13] = -1.83255e-06
+	 [14] = -1.83255e-06
+	 [15] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 14
+
+	HASH HASH HASH = 114893986
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	 [14] = -1.83255e-06
+	 [15] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 14
+
+	HASH HASH HASH = 114893986
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	 [14] = -1.83255e-06
+	 [15] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 15
+
+	HASH HASH HASH = 4200940974
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	 [15] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 15
+
+	HASH HASH HASH = 4200940974
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	 [15] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 16
+
+	HASH HASH HASH = 3831886672
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 16
+
+	HASH HASH HASH = 3831886672
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 70 (stack_realloc)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 16
+	size           = 16
+
+	HASH HASH HASH = 3831886672
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 91 (stack_realloc)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 16
+
+	HASH HASH HASH = 3831886672
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	 [16] = 1.41466e-314
+	 [17] = -1.83255e-06
+	 [18] = -1.83255e-06
+	 [19] = -1.83255e-06
+	 [20] = -1.83255e-06
+	 [21] = -1.83255e-06
+	 [22] = -1.83255e-06
+	 [23] = -1.83255e-06
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 17
+
+	HASH HASH HASH = 669456544
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	 [17] = -1.83255e-06
+	 [18] = -1.83255e-06
+	 [19] = -1.83255e-06
+	 [20] = -1.83255e-06
+	 [21] = -1.83255e-06
+	 [22] = -1.83255e-06
+	 [23] = -1.83255e-06
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 17
+
+	HASH HASH HASH = 669456544
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	 [17] = -1.83255e-06
+	 [18] = -1.83255e-06
+	 [19] = -1.83255e-06
+	 [20] = -1.83255e-06
+	 [21] = -1.83255e-06
+	 [22] = -1.83255e-06
+	 [23] = -1.83255e-06
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 18
+
+	HASH HASH HASH = 3781688249
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	 [18] = -1.83255e-06
+	 [19] = -1.83255e-06
+	 [20] = -1.83255e-06
+	 [21] = -1.83255e-06
+	 [22] = -1.83255e-06
+	 [23] = -1.83255e-06
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 18
+
+	HASH HASH HASH = 3781688249
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	 [18] = -1.83255e-06
+	 [19] = -1.83255e-06
+	 [20] = -1.83255e-06
+	 [21] = -1.83255e-06
+	 [22] = -1.83255e-06
+	 [23] = -1.83255e-06
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 19
+
+	HASH HASH HASH = 645379643
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	 [19] = -1.83255e-06
+	 [20] = -1.83255e-06
+	 [21] = -1.83255e-06
+	 [22] = -1.83255e-06
+	 [23] = -1.83255e-06
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 19
+
+	HASH HASH HASH = 645379643
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	 [19] = -1.83255e-06
+	 [20] = -1.83255e-06
+	 [21] = -1.83255e-06
+	 [22] = -1.83255e-06
+	 [23] = -1.83255e-06
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 20
+
+	HASH HASH HASH = 3409569808
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	 [20] = -1.83255e-06
+	 [21] = -1.83255e-06
+	 [22] = -1.83255e-06
+	 [23] = -1.83255e-06
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 20
+
+	HASH HASH HASH = 3409569808
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	 [20] = -1.83255e-06
+	 [21] = -1.83255e-06
+	 [22] = -1.83255e-06
+	 [23] = -1.83255e-06
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 21
+
+	HASH HASH HASH = 2782318340
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	 [21] = -1.83255e-06
+	 [22] = -1.83255e-06
+	 [23] = -1.83255e-06
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 21
+
+	HASH HASH HASH = 2782318340
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	 [21] = -1.83255e-06
+	 [22] = -1.83255e-06
+	 [23] = -1.83255e-06
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 22
+
+	HASH HASH HASH = 1775794809
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	 [22] = -1.83255e-06
+	 [23] = -1.83255e-06
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 22
+
+	HASH HASH HASH = 1775794809
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	 [22] = -1.83255e-06
+	 [23] = -1.83255e-06
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 23
+
+	HASH HASH HASH = 1523318815
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	 [23] = -1.83255e-06
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 23
+
+	HASH HASH HASH = 1523318815
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	 [23] = -1.83255e-06
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 24
+
+	HASH HASH HASH = 2363353680
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 24
+
+	HASH HASH HASH = 2363353680
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	 [24] = -1.83255e-06
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 25
+
+	HASH HASH HASH = 723174120
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 25
+
+	HASH HASH HASH = 723174120
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	 [25] = -1.83255e-06
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 26
+
+	HASH HASH HASH = 4101362617
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 26
+
+	HASH HASH HASH = 4101362617
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	 [26] = -1.83255e-06
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 27
+
+	HASH HASH HASH = 1182608131
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 27
+
+	HASH HASH HASH = 1182608131
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	 [27] = -1.83255e-06
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 28
+
+	HASH HASH HASH = 2851625616
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 28
+
+	HASH HASH HASH = 2851625616
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	 [28] = -1.83255e-06
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 29
+
+	HASH HASH HASH = 2608077644
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 29
+
+	HASH HASH HASH = 2608077644
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	 [29] = -1.83255e-06
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 30
+
+	HASH HASH HASH = 1369584761
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 30
+
+	HASH HASH HASH = 1369584761
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	 [30] = -1.83255e-06
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 31
+
+	HASH HASH HASH = 3253128551
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 31
+
+	HASH HASH HASH = 3253128551
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	 [31] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 32
+
+	HASH HASH HASH = 2310292816
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 32
+
+	HASH HASH HASH = 2310292816
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 70 (stack_realloc)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 32
+	size           = 32
+
+	HASH HASH HASH = 2310292816
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 91 (stack_realloc)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 32
+
+	HASH HASH HASH = 2310292816
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	 [32] = 1.41466e-314
+	 [33] = -1.83255e-06
+	 [34] = -1.83255e-06
+	 [35] = -1.83255e-06
+	 [36] = -1.83255e-06
+	 [37] = -1.83255e-06
+	 [38] = -1.83255e-06
+	 [39] = -1.83255e-06
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 33
+
+	HASH HASH HASH = 3097979344
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	 [33] = -1.83255e-06
+	 [34] = -1.83255e-06
+	 [35] = -1.83255e-06
+	 [36] = -1.83255e-06
+	 [37] = -1.83255e-06
+	 [38] = -1.83255e-06
+	 [39] = -1.83255e-06
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 33
+
+	HASH HASH HASH = 3097979344
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	 [33] = -1.83255e-06
+	 [34] = -1.83255e-06
+	 [35] = -1.83255e-06
+	 [36] = -1.83255e-06
+	 [37] = -1.83255e-06
+	 [38] = -1.83255e-06
+	 [39] = -1.83255e-06
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 34
+
+	HASH HASH HASH = 3225170640
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	 [34] = -1.83255e-06
+	 [35] = -1.83255e-06
+	 [36] = -1.83255e-06
+	 [37] = -1.83255e-06
+	 [38] = -1.83255e-06
+	 [39] = -1.83255e-06
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 34
+
+	HASH HASH HASH = 3225170640
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	 [34] = -1.83255e-06
+	 [35] = -1.83255e-06
+	 [36] = -1.83255e-06
+	 [37] = -1.83255e-06
+	 [38] = -1.83255e-06
+	 [39] = -1.83255e-06
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 35
+
+	HASH HASH HASH = 1422997561
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	 [35] = -1.83255e-06
+	 [36] = -1.83255e-06
+	 [37] = -1.83255e-06
+	 [38] = -1.83255e-06
+	 [39] = -1.83255e-06
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 35
+
+	HASH HASH HASH = 1422997561
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	 [35] = -1.83255e-06
+	 [36] = -1.83255e-06
+	 [37] = -1.83255e-06
+	 [38] = -1.83255e-06
+	 [39] = -1.83255e-06
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 36
+
+	HASH HASH HASH = 628172016
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	 [36] = -1.83255e-06
+	 [37] = -1.83255e-06
+	 [38] = -1.83255e-06
+	 [39] = -1.83255e-06
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 36
+
+	HASH HASH HASH = 628172016
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	 [36] = -1.83255e-06
+	 [37] = -1.83255e-06
+	 [38] = -1.83255e-06
+	 [39] = -1.83255e-06
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 37
+
+	HASH HASH HASH = 178360898
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	 [37] = -1.83255e-06
+	 [38] = -1.83255e-06
+	 [39] = -1.83255e-06
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 37
+
+	HASH HASH HASH = 178360898
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	 [37] = -1.83255e-06
+	 [38] = -1.83255e-06
+	 [39] = -1.83255e-06
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 38
+
+	HASH HASH HASH = 776818608
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	 [38] = -1.83255e-06
+	 [39] = -1.83255e-06
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 38
+
+	HASH HASH HASH = 776818608
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	 [38] = -1.83255e-06
+	 [39] = -1.83255e-06
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 39
+
+	HASH HASH HASH = 4242539499
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	 [39] = -1.83255e-06
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 39
+
+	HASH HASH HASH = 4242539499
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	 [39] = -1.83255e-06
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 40
+
+	HASH HASH HASH = 1135268112
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 40
+
+	HASH HASH HASH = 1135268112
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	 [40] = -1.83255e-06
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 41
+
+	HASH HASH HASH = 2085800884
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 41
+
+	HASH HASH HASH = 2085800884
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	 [41] = -1.83255e-06
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 42
+
+	HASH HASH HASH = 2755252368
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 42
+
+	HASH HASH HASH = 2755252368
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	 [42] = -1.83255e-06
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 43
+
+	HASH HASH HASH = 4111723549
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 43
+
+	HASH HASH HASH = 4111723549
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	 [43] = -1.83255e-06
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 44
+
+	HASH HASH HASH = 1618948272
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 44
+
+	HASH HASH HASH = 1618948272
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	 [44] = -1.83255e-06
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 45
+
+	HASH HASH HASH = 718514854
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 45
+
+	HASH HASH HASH = 718514854
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	 [45] = -1.83255e-06
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 46
+
+	HASH HASH HASH = 1693342704
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 46
+
+	HASH HASH HASH = 1693342704
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	 [46] = -1.83255e-06
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 47
+
+	HASH HASH HASH = 1178275151
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	*[46] = 46
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 47
+
+	HASH HASH HASH = 1178275151
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	*[46] = 46
+	 [47] = -1.83255e-06
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 48
+
+	HASH HASH HASH = 2845166672
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	*[46] = 46
+	*[47] = 47
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 48
+
+	HASH HASH HASH = 2845166672
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	*[46] = 46
+	*[47] = 47
+	 [48] = -1.83255e-06
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 49
+
+	HASH HASH HASH = 1558567576
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	*[46] = 46
+	*[47] = 47
+	*[48] = 48
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 114 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 49
+
+	HASH HASH HASH = 1558567576
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	*[46] = 46
+	*[47] = 47
+	*[48] = 48
+	 [49] = -1.83255e-06
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 127 (stack_push)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 50
+
+	HASH HASH HASH = 744592976
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	*[46] = 46
+	*[47] = 47
+	*[48] = 48
+	*[49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 50
+
+	HASH HASH HASH = 744592976
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	*[46] = 46
+	*[47] = 47
+	*[48] = 48
+	*[49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 49
+
+	HASH HASH HASH = 1558567576
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	*[46] = 46
+	*[47] = 47
+	*[48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 49
+
+	HASH HASH HASH = 1558567576
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	*[46] = 46
+	*[47] = 47
+	*[48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 48
+
+	HASH HASH HASH = 2845166672
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	*[46] = 46
+	*[47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 48
+
+	HASH HASH HASH = 2845166672
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	*[46] = 46
+	*[47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 47
+
+	HASH HASH HASH = 1178275151
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	*[46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 47
+
+	HASH HASH HASH = 1178275151
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	*[46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 46
+
+	HASH HASH HASH = 1693342704
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 46
+
+	HASH HASH HASH = 1693342704
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	*[45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 45
+
+	HASH HASH HASH = 718514854
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 45
+
+	HASH HASH HASH = 718514854
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	*[44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 44
+
+	HASH HASH HASH = 1618948272
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 44
+
+	HASH HASH HASH = 1618948272
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	*[43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 43
+
+	HASH HASH HASH = 4111723549
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 43
+
+	HASH HASH HASH = 4111723549
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	*[42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 42
+
+	HASH HASH HASH = 2755252368
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 42
+
+	HASH HASH HASH = 2755252368
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	*[41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 41
+
+	HASH HASH HASH = 2085800884
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 41
+
+	HASH HASH HASH = 2085800884
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	*[40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 40
+
+	HASH HASH HASH = 1135268112
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 40
+
+	HASH HASH HASH = 1135268112
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	*[39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 39
+
+	HASH HASH HASH = 4242539499
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 39
+
+	HASH HASH HASH = 4242539499
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	*[38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 38
+
+	HASH HASH HASH = 776818608
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 38
+
+	HASH HASH HASH = 776818608
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	*[37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 37
+
+	HASH HASH HASH = 178360898
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 37
+
+	HASH HASH HASH = 178360898
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	*[36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 36
+
+	HASH HASH HASH = 628172016
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 36
+
+	HASH HASH HASH = 628172016
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	*[35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 35
+
+	HASH HASH HASH = 1422997561
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 35
+
+	HASH HASH HASH = 1422997561
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	*[34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 34
+
+	HASH HASH HASH = 3225170640
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 34
+
+	HASH HASH HASH = 3225170640
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	*[33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 33
+
+	HASH HASH HASH = 3097979344
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 33
+
+	HASH HASH HASH = 3097979344
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	*[32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 32
+
+	HASH HASH HASH = 2310292816
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 32
+
+	HASH HASH HASH = 2310292816
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	*[31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 31
+
+	HASH HASH HASH = 3253128551
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 31
+
+	HASH HASH HASH = 3253128551
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	*[30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 30
+
+	HASH HASH HASH = 1369584761
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 30
+
+	HASH HASH HASH = 1369584761
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	*[29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 29
+
+	HASH HASH HASH = 2608077644
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 29
+
+	HASH HASH HASH = 2608077644
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	*[28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 28
+
+	HASH HASH HASH = 2851625616
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 28
+
+	HASH HASH HASH = 2851625616
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	*[27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 27
+
+	HASH HASH HASH = 1182608131
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 27
+
+	HASH HASH HASH = 1182608131
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	*[26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 26
+
+	HASH HASH HASH = 4101362617
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 26
+
+	HASH HASH HASH = 4101362617
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	*[25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 25
+
+	HASH HASH HASH = 723174120
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 25
+
+	HASH HASH HASH = 723174120
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	*[24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 24
+
+	HASH HASH HASH = 2363353680
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 24
+
+	HASH HASH HASH = 2363353680
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	*[23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 23
+
+	HASH HASH HASH = 1523318815
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 23
+
+	HASH HASH HASH = 1523318815
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	*[22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 22
+
+	HASH HASH HASH = 1775794809
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 22
+
+	HASH HASH HASH = 1775794809
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	*[21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 21
+
+	HASH HASH HASH = 2782318340
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	 [21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 21
+
+	HASH HASH HASH = 2782318340
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	*[20] = 20
+	 [21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 20
+
+	HASH HASH HASH = 3409569808
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	 [20] = 20
+	 [21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 20
+
+	HASH HASH HASH = 3409569808
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	*[19] = 19
+	 [20] = 20
+	 [21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 19
+
+	HASH HASH HASH = 645379643
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	 [19] = 19
+	 [20] = 20
+	 [21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 19
+
+	HASH HASH HASH = 645379643
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	*[18] = 18
+	 [19] = 19
+	 [20] = 20
+	 [21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 18
+
+	HASH HASH HASH = 3781688249
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	 [18] = 18
+	 [19] = 19
+	 [20] = 20
+	 [21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 18
+
+	HASH HASH HASH = 3781688249
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	*[17] = 17
+	 [18] = 18
+	 [19] = 19
+	 [20] = 20
+	 [21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 17
+
+	HASH HASH HASH = 669456544
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	 [17] = 17
+	 [18] = 18
+	 [19] = 19
+	 [20] = 20
+	 [21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 17
+
+	HASH HASH HASH = 669456544
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	*[16] = 16
+	 [17] = 17
+	 [18] = 18
+	 [19] = 19
+	 [20] = 20
+	 [21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 16
+
+	HASH HASH HASH = 3831886672
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	 [16] = 16
+	 [17] = 17
+	 [18] = 18
+	 [19] = 19
+	 [20] = 20
+	 [21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 16
+
+	HASH HASH HASH = 3831886672
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	*[15] = 15
+	 [16] = 16
+	 [17] = 17
+	 [18] = 18
+	 [19] = 19
+	 [20] = 20
+	 [21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 15
+
+	HASH HASH HASH = 4200940974
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	 [15] = 15
+	 [16] = 16
+	 [17] = 17
+	 [18] = 18
+	 [19] = 19
+	 [20] = 20
+	 [21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 15
+
+	HASH HASH HASH = 4200940974
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	 [15] = 15
+	 [16] = 16
+	 [17] = 17
+	 [18] = 18
+	 [19] = 19
+	 [20] = 20
+	 [21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 96 (stack_back_realloc)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 64
+	size           = 15
+
+	HASH HASH HASH = 4200940974
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	 [15] = 15
+	 [16] = 16
+	 [17] = 17
+	 [18] = 18
+	 [19] = 19
+	 [20] = 20
+	 [21] = 21
+	 [22] = 22
+	 [23] = 23
+	 [24] = 24
+	 [25] = 25
+	 [26] = 26
+	 [27] = 27
+	 [28] = 28
+	 [29] = 29
+	 [30] = 30
+	 [31] = 31
+	 [32] = 32
+	 [33] = 33
+	 [34] = 34
+	 [35] = 35
+	 [36] = 36
+	 [37] = 37
+	 [38] = 38
+	 [39] = 39
+	 [40] = 40
+	 [41] = 41
+	 [42] = 42
+	 [43] = 43
+	 [44] = 44
+	 [45] = 45
+	 [46] = 46
+	 [47] = 47
+	 [48] = 48
+	 [49] = 49
+	 [50] = -1.83255e-06
+	 [51] = -1.83255e-06
+	 [52] = -1.83255e-06
+	 [53] = -1.83255e-06
+	 [54] = -1.83255e-06
+	 [55] = -1.83255e-06
+	 [56] = -1.83255e-06
+	 [57] = -1.83255e-06
+	 [58] = -1.83255e-06
+	 [59] = -1.83255e-06
+	 [60] = -1.83255e-06
+	 [61] = -1.83255e-06
+	 [62] = -1.83255e-06
+	 [63] = -1.83255e-06
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 109 (stack_back_realloc)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 17
+	size           = 15
+
+	HASH HASH HASH = 4200940974
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	*[14] = 14
+	 [15] = 15
+	 [16] = 16
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 17
+	size           = 14
+
+	HASH HASH HASH = 114893986
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	 [14] = 14
+	 [15] = 15
+	 [16] = 16
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 17
+	size           = 14
+
+	HASH HASH HASH = 114893986
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	*[13] = 13
+	 [14] = 14
+	 [15] = 15
+	 [16] = 16
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 17
+	size           = 13
+
+	HASH HASH HASH = 798158328
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	 [13] = 13
+	 [14] = 14
+	 [15] = 15
+	 [16] = 16
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 17
+	size           = 13
+
+	HASH HASH HASH = 798158328
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	*[12] = 12
+	 [13] = 13
+	 [14] = 14
+	 [15] = 15
+	 [16] = 16
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 17
+	size           = 12
+
+	HASH HASH HASH = 2647357520
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	 [12] = 12
+	 [13] = 13
+	 [14] = 14
+	 [15] = 15
+	 [16] = 16
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 17
+	size           = 12
+
+	HASH HASH HASH = 2647357520
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	*[11] = 11
+	 [12] = 12
+	 [13] = 13
+	 [14] = 14
+	 [15] = 15
+	 [16] = 16
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 17
+	size           = 11
+
+	HASH HASH HASH = 3513407590
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	 [11] = 11
+	 [12] = 12
+	 [13] = 13
+	 [14] = 14
+	 [15] = 15
+	 [16] = 16
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 132 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 17
+	size           = 11
+
+	HASH HASH HASH = 3513407590
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	*[10] = 10
+	 [11] = 11
+	 [12] = 12
+	 [13] = 13
+	 [14] = 14
+	 [15] = 15
+	 [16] = 16
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 145 (stack_pop)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 17
+	size           = 10
+
+	HASH HASH HASH = 3700640418
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	 [10] = 10
+	 [11] = 11
+	 [12] = 12
+	 [13] = 13
+	 [14] = 14
+	 [15] = 15
+	 [16] = 16
+DATA CANARY RIGHT = aaaaaaaa
+
+stk[0x7f1690500030]
+	called from stack.cpp : 152 (stack_dtor)
+
+STATUS: CONSTRUCTED
+
+STRUCT CANARY_START = aaaaaaaa
+	capacity       = 17
+	size           = 10
+
+	HASH HASH HASH = 3700640418
+STRUCT CANARY_END   = aaaaaaaa
+
+
+DATA CANARY LEFT  = aaaaaaaa
+	*[0] = 0
+	*[1] = 1
+	*[2] = 2
+	*[3] = 3
+	*[4] = 4
+	*[5] = 5
+	*[6] = 6
+	*[7] = 7
+	*[8] = 8
+	*[9] = 9
+	 [10] = 10
+	 [11] = 11
+	 [12] = 12
+	 [13] = 13
+	 [14] = 14
+	 [15] = 15
+	 [16] = 16
+DATA CANARY RIGHT = aaaaaaaa
+

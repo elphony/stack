@@ -5,21 +5,36 @@
 #include "stack.h"
 #include "stack_error.h"
 
+FILE* LOG_FILE = stderr;
+
+void open_log_file(const char* FILE_NAME, const char* mode) {
+    
+    LOG_FILE = fopen(FILE_NAME, mode);
+
+    if (LOG_FILE == NULL) {
+        LOG_FILE = stderr;
+    }
+}
+
+void close_log_file() {
+    fclose(LOG_FILE);
+}
+
 void stack_ctor(Stack_t* stk, int capacity) {
 
-    stk->capacity = capacity;
-    int size = 0;
+    stk->capacity = (size_t)capacity;
+    size_t size = 0;
 
     if (capacity < 0) {
         output_error(0 | VALUE_ERROR);
-        STACK_DUMP(stderr, stk);
+        STACK_DUMP_ERROR(stk);
         abort();
     }
 
 #ifdef CANARY
-    size = stk->capacity * sizeof(StackElem_t) + 2 * sizeof(Canary_t);
+    size = (size_t)stk->capacity * sizeof(StackElem_t) + 2 * sizeof(Canary_t);
 #else
-    size = stk->capacity * sizeof(StackElem_t);
+    size = (size_t)stk->capacity * sizeof(StackElem_t);
 #endif
 
     if (capacity == 0) {
@@ -143,8 +158,8 @@ void stack_dtor(Stack_t* stk) {
 #endif
 
     stk->data     = nullptr;
-    stk->size     = -1;
-    stk->capacity = -1;
+    stk->size     = 0;
+    stk->capacity = 0;
 }
 
 void stack_dump(FILE* out, Stack_t* stk, const char* name, const char* file, int line, const char* func) {
@@ -162,6 +177,8 @@ void stack_dump(FILE* out, Stack_t* stk, const char* name, const char* file, int
         case DESTRUCTED: 
             fprintf(out, "STATUS: CONSTRUCTED\n\n");
             break;
+        default:
+            fprintf(out, "STATUS: UNDEFINED\n\n");
     }
 
 #ifdef CANARY

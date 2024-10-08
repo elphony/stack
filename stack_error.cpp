@@ -67,7 +67,7 @@ int stack_error(Stack_t* stk) {
     if (stk->size < 0 || stk->capacity < 0) {
         errors = errors | VALUE_ERROR;
     }
-    if (stk->size > stk->capacity) {
+    if (stk->size > stk->capacity && stk->capacity >= 0) {
         errors = errors | SIZE_ERROR;
     }
 

@@ -10,6 +10,12 @@ void stack_ctor(Stack_t* stk, int capacity) {
     stk->capacity = capacity;
     int size = 0;
 
+    if (capacity < 0) {
+        output_error(0 | VALUE_ERROR);
+        STACK_DUMP(stderr, stk);
+        abort();
+    }
+
 #ifdef CANARY
     size = stk->capacity * sizeof(StackElem_t) + 2 * sizeof(Canary_t);
 #else

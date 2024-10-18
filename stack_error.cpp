@@ -90,7 +90,7 @@ int stack_error(Stack_t* stk) {
 
 #ifdef HASH
     
-    if (sum_hash(stk) != stk->hash) {
+    if (stk->status && sum_hash(stk) != stk->hash) {
         errors = errors | HASH_ERROR;
     }
 

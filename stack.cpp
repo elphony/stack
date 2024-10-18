@@ -160,6 +160,13 @@ void stack_dtor(Stack_t* stk) {
     stk->data     = nullptr;
     stk->size     = 0;
     stk->capacity = 0;
+    stk->status   = DESTRUCTED;
+
+#ifdef HASH
+    stk->hash     = 0;
+#endif
+
+    STACK_VERIF(stk);
 }
 
 void stack_dump(FILE* out, Stack_t* stk, const char* name, const char* file, int line, const char* func) {
@@ -175,7 +182,7 @@ void stack_dump(FILE* out, Stack_t* stk, const char* name, const char* file, int
             fprintf(out, "STATUS: CONSTRUCTED\n\n");
             break;
         case DESTRUCTED: 
-            fprintf(out, "STATUS: CONSTRUCTED\n\n");
+            fprintf(out, "STATUS: DESTRUCTED\n\n");
             break;
         default:
             fprintf(out, "STATUS: UNDEFINED\n\n");
@@ -230,7 +237,7 @@ uint32_t sum_hash(Stack_t* stk) {
 }
 
 Canary_t* right_canary_ptr(Stack_t* stk) {
-    return ((Canary_t*)stk->data + stk->capacity);
+    return (Canary_t*)(stk->data + stk->capacity);
 }
 
 Canary_t* left_canary_ptr(Stack_t* stk) {

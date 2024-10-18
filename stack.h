@@ -12,7 +12,8 @@
 const int MEMORY_COEF = 2; 
 const uint32_t HASH_CONST = 0x01000193;
 
-typedef double StackElem_t;
+// sizeof(Canary_t) == sizeof(StackElem_t)
+typedef long int StackElem_t;
 typedef uint64_t Canary_t;
 
 const Canary_t CANARY_VALUE = 0xAAAAAAAA;

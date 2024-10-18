@@ -7,13 +7,13 @@ int main() {
     open_log_file("LOG.log", "w");
 
     Stack_t stk = {};
-    stack_ctor(&stk, 0);
+    stack_ctor(&stk, 2);
 
-    for (int i = 0; i < 50; ++i) {
+    for (int i = 0; i < 5; ++i) {
         stack_push(&stk, i);
     }
 
-    for (int i = 0; i < 40; ++i) {
+    for (int i = 0; i < 5; ++i) {
         stack_pop(&stk);
     }
 
